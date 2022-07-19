@@ -1,0 +1,17 @@
+.postForm {
+	margin-top: 3.125rem;
+}
+
+.postFormTitle {
+	margin-bottom: 1.25rem;
+	font-family: 'Lato';
+	font-weight: 900;
+	font-size: 46px;
+	color: #1e212c;
+}
+
+.formWrapper {
+	display: flex;
+	flex-direction: column;
+	gap: 20px;
+}
