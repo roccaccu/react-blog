@@ -1,0 +1,14 @@
+.select {
+	width: 217px;
+	padding: 16px 13px;
+	cursor: pointer;
+	border: none;
+	outline: none;
+	border: 2px solid #d7dadd;
+	border-radius: 4px;
+
+	/* Text */
+	font-weight: 400;
+	font-size: 16px;
+	color: #9a9ca5;
+}

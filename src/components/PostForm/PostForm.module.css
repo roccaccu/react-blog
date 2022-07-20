@@ -1,10 +1,12 @@
 .postForm {
-	margin-top: 3.125rem;
+	margin-top: 50px;
 }
 
 .postFormTitle {
 	margin-bottom: 1.25rem;
-	font-family: 'Lato';
+}
+
+.postForm h1 {
 	font-weight: 900;
 	font-size: 46px;
 	color: #1e212c;

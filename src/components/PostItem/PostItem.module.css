@@ -2,7 +2,7 @@
 	margin-top: 3.125rem;
 	display: flex;
 	flex-direction: column;
-	gap: 25px;
+	gap: 10px;
 }
 
 .postItem {
@@ -17,8 +17,7 @@
 
 .postItem h3 {
 	font-weight: 900;
-	font-size: 40px;
-	letter-spacing: 1px;
+	font-size: 45px;
 	color: #ff3f3a;
 }
 
@@ -38,12 +37,10 @@
 	font-weight: 400;
 	font-size: 16px;
 	color: #787a80;
+	letter-spacing: 0.4px;
 }
 
 .postItemBtn {
 	display: flex;
-}
-
-.open {
-	background: red !important;
+	gap: 10px;
 }

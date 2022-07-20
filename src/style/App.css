@@ -14,3 +14,23 @@ body {
 	width: 100%;
 	margin: 0 auto;
 }
+
+.modalWrapper {
+	position: relative;
+	display: none;
+}
+
+.activeModal {
+	display: block;
+}
+
+.modal {
+	position: absolute;
+	max-width: 500px;
+	top: 200px;
+	right: 465px;
+	border: 1px solid #ff3f3a;
+	padding: 50px;
+	border-radius: 16px;
+	background: #ff3f3a;
+}
